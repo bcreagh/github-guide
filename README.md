@@ -17,7 +17,7 @@ Backend projects:
 * https://github.com/bcreagh/mp.flask-base (Python)
 
 
-## Algorithms and Data Structures
+## Algorithms and data structures
 
 * https://github.com/bcreagh/java-algorithms (Java)
 
