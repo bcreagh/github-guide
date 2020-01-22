@@ -1,4 +1,4 @@
-# Guide to my Github repos
+# Guide to my Github Repositories
 
 Over the past few years, I have created many Github repositories. Some are more interesting than others. This page is designed help visitors to navigate my Github repositories and direct them to the more interesting ones.
 
